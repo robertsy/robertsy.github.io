@@ -10,17 +10,16 @@ title = "Sylvain Robert"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
-  colorScheme = "avocado"
+  description = "Sylvain Robert's personal website"
 
 
 [params.author]
-name = "Sylvain Robert"
-image = "img/author.jpg"
-headline = "I'm not a bot"
-bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  name = "Sylvain Robert"
+  image = "img/author.jpg"
+  headline = "Data Scientist / Statistician"
+  bio = "I am here"
+  links = [
+    { email = "mailto:contact@sylvain-robert.ch" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -32,7 +31,7 @@ bio = "A little bit about you"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+  #   { github = "https://github.com/robertsy" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -41,7 +40,7 @@ bio = "A little bit about you"
   #   { keybase = "https://keybase.io/username" },
   #   { kickstarter = "https://www.kickstarter.com/profile/username" },
   #   { lastfm = "https://lastfm.com/user/username" },
-  #   { linkedin = "https://linkedin.com/in/username" },
+     { linkedin = "https://linkedin.com/in/robsylvain" },
   #   { mastodon = "https://mastodon.instance/@username" },
   #   { medium = "https://medium.com/username" },
   #   { mendeley = "https://www.mendeley.com/" },
@@ -63,4 +62,4 @@ bio = "A little bit about you"
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
