@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "Sylvain Robert"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -11,12 +11,14 @@ title = "Congo"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
+  colorScheme = "avocado"
+
 
 [params.author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
+name = "Sylvain Robert"
+image = "img/author.jpg"
+headline = "I'm not a bot"
+bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
