@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Sylvain Robert"
+title = "Home"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -17,7 +17,7 @@ title = "Sylvain Robert"
   name = "Sylvain Robert"
   image = "img/author.jpg"
   headline = "Data Scientist / Statistician"
-  bio = "I am here"
+  bio = ""
   links = [
     { email = "mailto:contact@sylvain-robert.ch" },
   #   { link = "https://link-to-some-website.com/" },
