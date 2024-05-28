@@ -8,7 +8,6 @@ title = "Home"
 
 [params]
   dateFormat = "2 January 2006"
-
   # mainSections = ["section1", "section2"]
   description = "Sylvain Robert's personal website"
 
@@ -19,7 +18,7 @@ title = "Home"
   headline = "Data Scientist / Statistician"
   bio = "10+ years across academia and industry in applying statistics to problems involving complex data and expert knowledge."
   links = [
-    { email = "mailto:contact@sylvain-robert.ch" },
+    { email = "mailto:contact@sylvain-robert.ch?subject=Hi!%20I'd%20like%20to%20chat" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
