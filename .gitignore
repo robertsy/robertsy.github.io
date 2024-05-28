@@ -26,3 +26,4 @@ hugo.linux
 !.vscode/extensions.json
 *.code-workspace
 .DS_Store
+content/draft.md

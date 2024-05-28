@@ -17,7 +17,7 @@ title = "Home"
   name = "Sylvain Robert"
   image = "img/author.jpg"
   headline = "Data Scientist / Statistician"
-  bio = ""
+  bio = "10+ years across academia and industry in applying statistics to problems involving complex data and expert knowledge."
   links = [
     { email = "mailto:contact@sylvain-robert.ch" },
   #   { link = "https://link-to-some-website.com/" },
@@ -34,7 +34,7 @@ title = "Home"
   #   { github = "https://github.com/robertsy" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
-  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
+    { google-scholar = "https://scholar.google.com/citations?user=kJ_XrL8AAAAJ&hl=en" },
   #   { hashnode = "https://username.hashnode.dev" },
   #   { instagram = "https://instagram.com/username" },
   #   { keybase = "https://keybase.io/username" },
