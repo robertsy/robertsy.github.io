@@ -16,6 +16,6 @@ If any of the things I wrote about sounds interesting to you, let's chat!
 
 
 
-<span style="margin-left: 20px;">
+<span style="margin-left: 30px;">
 {{< button href="mailto:contact@sylvain-robert.ch?subject=Contact%20about%20your%20consulting%20services" target="_blank" >}} Contact me {{< /button >}}
 </span>
