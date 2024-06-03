@@ -8,18 +8,13 @@ showPagination  = false
 draft = false
 +++
 
-I offer bespoke consulting services to organizations facing challenges that typical out-of-the-box tools cannot address. Typically these involve **complex data** structures (spatial data, time series, correlated observations or hierarchical relationships), strong **domain expertise** (causal relationships, risk knowledge, expert intuition or dynamical systems), and questions that go **beyond simple predictions** (inference about parameters, probabilistic predictions, or decisions with non-standard loss functions).
+I offer bespoke consulting services to organizations facing challenges in the fields of Climate, Environment and Risks. My expertise is on applying statistics and data science to problems which out-of-the-box tools cannot address. These typically involve **complex data** (for example geospatial data, remote sensing or time series), **domain expertise** (for example risk knowledge or expert intuition), and questions that go **beyond simple predictions** (inference, probabilistic forecasting, or decisions with non-standard loss functions).
 
-Not every everyone has exabyte-scale data, but everyone has deep knowledge of their domain. Together, we can make the best use of your data, linking with external datasets when relevant, and, most importantly, integrating as much as possible your expertise in the final models.
-
-From my experience, here are some specific domains where my expertise can be particularly helpful:
-
-* Environment and Energy
-* Climate and Weather
-* Natural Catastrophes
-* Development Aid
+Not every organization has exabyte-scale data, but every organization has deep knowledge of their domain of application. Together, we can make the best use of your data, linking with external datasets when relevant, and, most importantly, integrating as much as possible your expertise in the final models.
 
 If any of the things I wrote about sounds interesting to you, let's chat!
+
+
 
 <span style="margin-left: 20px;">
 {{< button href="mailto:contact@sylvain-robert.ch?subject=Contact%20about%20your%20consulting%20services" target="_blank" >}} Contact me {{< /button >}}

@@ -1,17 +1,17 @@
 +++
-title = "Welcome!"
-description = "This is a website about my work and thoughts as Data Scientist."
+title = "Sylvain Robert's personal website"
+description = "This is a website about my work and thoughts as Data Scientist in the field of AI for Climate, Environment and Risks."
 +++
-
-
-I'm passionnate about using data to help people have an impact on the world. I studied at *ETH Zürich* and worked at *Swiss Re* and *Google* before starting my own consultancy.
-
-My experience spans data assimilation for weather forecasting, spatio-temporal analysis of environmental data, catastrophe modelling in (re-)insurance, estimating risks and uncertainty with Bayesian statistics, and drawing causal inference from experimental and observational data.
-
-What these various applications have in common is to not rely on data only, but to combine them with the deep expertise and insights of people working in their domains for many years.
-
-{{< button href="/about/" target="_self" >}} Learn more {{< /button >}}
 
 {{< lead >}}
 Zürich - Switzerland
 {{< /lead >}}
+
+I'm passionnate about using statistics and data science in the fields of Climate :sun_behind_rain_cloud:, Environment :herb: and Risks :fire:. I studied at *ETH Zürich* and worked at *Swiss Re* and *Google* before starting my own data science [consultancy](../consulting/).
+
+My experience spans data assimilation for weather forecasting using Bayesian methods, spatio-temporal modelling of environmental data with Machine Learning, risks and uncertainty estimation for extreme events in (re-)insurance, all the way to designing geo-experiments to measure the causal impact of online campaigns.
+
+One thing that these various applications have in common is to combine data with deep expertise and insights of people:
+> AI and data have a great potential on their own. Used in conjonction with human intelligence they can actually change the world.
+
+{{< button href="/about/" target="_self" >}} Learn more {{< /button >}}
