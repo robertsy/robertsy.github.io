@@ -7,7 +7,7 @@ description = "This is a website about my work and thoughts as Data Scientist in
 Zürich - Switzerland
 {{< /lead >}}
 
-I'm passionnate about using statistics and data science in the fields of Climate :sun_behind_rain_cloud:, Environment :herb: and Risks :fire:. I studied at *ETH Zürich* and worked at *Swiss Re* and *Google*. I am open for individual [consultings](../consulting/) engagements.
+I'm passionnate about using statistics and data science in the fields of Climate :sun_behind_rain_cloud:, Environment :herb: and Risks :fire:. I studied at *ETH Zürich* and worked at *Swiss Re* and *Google*. I am open for individual [consulting](../consulting/) engagements.
 
 My experience spans data assimilation for weather forecasting using Bayesian methods, spatio-temporal modelling of environmental data with Machine Learning, risks and uncertainty estimation for extreme events in (re-)insurance, all the way to designing geo-experiments to measure the causal impact of online campaigns.
 
