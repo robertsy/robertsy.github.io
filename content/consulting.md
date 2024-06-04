@@ -8,7 +8,7 @@ showPagination  = false
 draft = false
 +++
 
-I offer bespoke consulting services to organizations facing challenges in the fields of Climate, Environment and Risks. My expertise is on applying statistics and data science to problems which out-of-the-box tools cannot address. These typically involve **complex data** (for example geospatial data, remote sensing or time series), **domain expertise** (for example risk knowledge or expert intuition), and questions that go **beyond simple predictions** (inference, probabilistic forecasting, or decisions with non-standard loss functions).
+I offer bespoke consulting services to organizations facing challenges in the fields of Climate, Environment and Risks. My expertise is on applying statistics and data science to problems which out-of-the-box tools cannot address. These typically involve **complex data structure**, extensive **domain expertise**, and questions that go **beyond simple predictions**.
 
 Not every organization has exabyte-scale data, but every organization has deep knowledge of their domain of application. Together, we can make the best use of your data, linking with external datasets when relevant, and, most importantly, integrating as much as possible your expertise in the final models.
 
