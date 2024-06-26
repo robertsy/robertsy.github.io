@@ -7,7 +7,7 @@
 
 colorScheme = "avocado"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
@@ -20,7 +20,6 @@ fingerprintAlgorithm = "sha256"
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   logo = "img/sun_circle_150.png"
-  #logoDark = "img/author_smallest.png"
   # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
